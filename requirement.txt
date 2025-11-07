@@ -1,0 +1,16 @@
+astroid
+libcst
+radon
+textdistance
+torch
+transformers
+datasets
+numpy
+streamlit
+pytest
+networkx
+fpdf2
+markdown
+WeasyPrint
+black
+isort
